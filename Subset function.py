@@ -1,3 +1,5 @@
+#!/usr/bin/python2
+# -*- coding: utf-8 -*-
 def subsets(n):
     subset = [[]]
     for i in n:
